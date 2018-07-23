@@ -15,7 +15,7 @@ namespace IdentificateData
             var valid2 = "";
             var sex = "";
             var total = 0;
-       
+            //=>
             var last = input[input.Length-1];
             int[] numChec = {2, 4, 8, 5, 10, 9, 7, 3, 6 };
             for (int r = 0; r < input.Length-1; r++)

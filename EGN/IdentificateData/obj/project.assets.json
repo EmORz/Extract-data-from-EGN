@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EGN\\IdentificateData\\IdentificateData.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Extract-data-from-EGN\\EGN\\IdentificateData\\IdentificateData.csproj",
       "projectName": "IdentificateData",
-      "projectPath": "C:\\Users\\User\\source\\repos\\EGN\\IdentificateData\\IdentificateData.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Extract-data-from-EGN\\EGN\\IdentificateData\\IdentificateData.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\EGN\\IdentificateData\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Extract-data-from-EGN\\EGN\\IdentificateData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
