@@ -7,7 +7,7 @@ namespace IdentificateData
     {
         static void Main(string[] args)
         {
-            var input = "8911012438";
+            var input = Console.ReadLine();
             var year = "";
             var month = "";
             var day = "";
