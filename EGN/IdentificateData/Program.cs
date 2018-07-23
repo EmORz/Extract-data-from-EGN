@@ -7,7 +7,7 @@ namespace IdentificateData
     {
         static void Main(string[] args)
         {
-            var input = Console.ReadLine();
+            var input = "8911012438";
             var year = "";
             var month = "";
             var day = "";
@@ -15,7 +15,34 @@ namespace IdentificateData
             var valid2 = "";
             var sex = "";
             var total = 0;
+            var region = "";
+            for (int g = 0; g < input.Length-1; g++)
+            {
+                if (g>5)
+                {
+
+                    region+=(input[g]);
+                }
+            }
             //=>
+            var numRegio = int.Parse(region);
+         
+            var currentRegio = "";
+
+            if (numRegio >= 233 && numRegio <= 281)
+            {
+                currentRegio = "Kyrdjali";
+            }
+            if (numRegio>=501 && numRegio<=527)
+            {
+                currentRegio = "Razgrad";
+            }
+            //ToDo => add Data For Regions
+
+
+
+
+            //
             var last = input[input.Length-1];
             int[] numChec = {2, 4, 8, 5, 10, 9, 7, 3, 6 };
             for (int r = 0; r < input.Length-1; r++)
@@ -110,13 +137,13 @@ namespace IdentificateData
                 if (currentAgeInYear < 0)
                 {
                     currentAgeInYear *= -1;
-                    var text1 = $"You are {sex}, that will born in {currentYear} year, on {int.Parse(day)}-{suffix} {currentMonth}.\n" +
+                    var text1 = $"You are {sex}, that will born in {currentYear} year, on {int.Parse(day)}-{suffix} {currentMonth}, in {currentRegio}\n" +
                    $"You will born after {currentAgeInYear} years.";
                     Console.WriteLine(text1);
                 }
                 else
                 {
-                    var text2 = $"You are {sex}, born in {currentYear} year, on {int.Parse(day)}-{suffix} {currentMonth}.\n" +
+                    var text2 = $"You are {sex}, born in {currentYear} year, on {int.Parse(day)}-{suffix} {currentMonth}, in {currentRegio}\n" +
                         $"You are on {currentAgeInYear} years old.";
                     Console.WriteLine(text2);
                 }
