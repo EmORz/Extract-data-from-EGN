@@ -28,20 +28,127 @@ namespace IdentificateData
             var numRegio = int.Parse(region);
          
             var currentRegio = "";
-
-            if (numRegio >= 233 && numRegio <= 281)
+            
+            if (numRegio >= 0 && numRegio <= 43)
             {
-                currentRegio = "Kyrdjali";
+                currentRegio = "Благоевград";
             }
-            if (numRegio>=501 && numRegio<=527)
+            if (numRegio >= 44 && numRegio <= 93)
             {
-                currentRegio = "Razgrad";
+                  currentRegio = "Бургас";
             }
-            //ToDo => add Data For Regions
-
-
-
-
+            if (numRegio >= 94 && numRegio <= 139)
+            {
+                currentRegio = "Варна";
+            }
+            if (numRegio >= 140 && numRegio <= 169)
+            {
+                currentRegio = "Велико Търново";
+            }
+            if (numRegio >= 170 && numRegio <= 183)
+            {
+                currentRegio = "Видин";
+            }
+            if (numRegio >= 184 && numRegio <= 217)
+            {
+                currentRegio = "Враца";
+            }
+            if (numRegio >= 218 && numRegio <= 233)
+            {
+                currentRegio = "Габрово";
+            }
+            if (numRegio >= 234 && numRegio <= 281)
+            {
+                currentRegio = "Кърджали";
+            }            
+            if (numRegio >= 282 && numRegio <= 301)
+            {
+                currentRegio = "Кюстендил";
+            }
+            if (numRegio >= 302 && numRegio <= 319)
+            {
+                currentRegio = "Ловеч";
+            }
+            if (numRegio >= 320 && numRegio <= 341)
+            {
+                currentRegio = "Монтана";
+            }
+            if (numRegio >= 342 && numRegio <= 377)
+            {
+                currentRegio = "Пазарджик";
+            }
+            if (numRegio >= 378 && numRegio <= 395)
+            {
+                currentRegio = "Перник";
+            }
+            if (numRegio >= 396 && numRegio <= 435)
+            {
+                currentRegio = "Плевен";
+            }
+            if (numRegio >= 436 && numRegio <= 501)
+            {
+                currentRegio = "Пловдив";
+            }
+            if (numRegio >= 502 && numRegio <= 501)
+            {
+                currentRegio = "Пловдив";
+            }
+            if (numRegio>=502 && numRegio<=527)
+            {
+                currentRegio = "Разград";
+            }
+            if (numRegio>=528 && numRegio<=555)
+            {
+                currentRegio = "Русе";
+            }
+            if (numRegio>=556 && numRegio<=575)
+            {
+                currentRegio = "Силистра";
+            }
+            if (numRegio>=576 && numRegio<=601)
+            {
+                currentRegio = "Сливен";
+            }
+            if (numRegio>=602 && numRegio<=623)
+            {
+                currentRegio = "Смолян";
+            }
+            if (numRegio>=624 && numRegio<=721)
+            {
+                currentRegio = "София - град";
+            }
+            if (numRegio>=722 && numRegio<=751)
+            {
+                currentRegio = "София - област";
+            }
+            if (numRegio>=752 && numRegio<=789)
+            {
+                currentRegio = "Стара загора";
+            }
+            if (numRegio>=790 && numRegio<=821)
+            {
+                currentRegio = "Добрич (Толбухин)";
+            }
+            if (numRegio>=822 && numRegio<=843)
+            {
+                currentRegio = "Търговище";
+            }
+            if (numRegio>=844 && numRegio<=871)
+            {
+                currentRegio = "Хасково";
+            }
+            if (numRegio>=872 && numRegio<=903)
+            {
+                currentRegio = "Шумен";
+            }
+            if (numRegio>=904 && numRegio<=925)
+            {
+                currentRegio = "Ямбол";
+            }
+            if (numRegio>=926 && numRegio<=999)
+            {
+                currentRegio = "Друг/Неизвестен";
+            }
             //
             var last = input[input.Length-1];
             int[] numChec = {2, 4, 8, 5, 10, 9, 7, 3, 6 };
