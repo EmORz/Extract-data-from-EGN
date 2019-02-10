@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\bin\Debug\Extract_Data_From_EGN_App.exe.config
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\bin\Debug\Extract_Data_From_EGN_App.exe
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\bin\Debug\Extract_Data_From_EGN_App.pdb
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\obj\Debug\Extract_Data_From_EGN_App.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\obj\Debug\Extract_Data_From_EGN_App.Properties.Resources.resources
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\obj\Debug\Extract_Data_From_EGN_App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\obj\Debug\Extract_Data_From_EGN_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\obj\Debug\Extract_Data_From_EGN_App.exe
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\obj\Debug\Extract_Data_From_EGN_App.pdb
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\Extract_Data_From_EGN_App\obj\Debug\Extract_Data_From_EGN_App.Form1.resources

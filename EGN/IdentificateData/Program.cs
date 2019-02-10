@@ -261,6 +261,8 @@ namespace IdentificateData
                 Console.WriteLine($"Your EGN is not valid!");
 
             }
+
+            Console.ReadKey();
         }
     }
 }

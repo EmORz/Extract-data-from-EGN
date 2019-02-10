@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\IdentificateData.deps.json
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\IdentificateData.runtimeconfig.json
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\IdentificateData.runtimeconfig.dev.json
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\IdentificateData.dll
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\IdentificateData.pdb
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\obj\Release\netcoreapp2.0\win-x64\IdentificateData.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\obj\Release\netcoreapp2.0\win-x64\IdentificateData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\obj\Release\netcoreapp2.0\win-x64\IdentificateData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\obj\Release\netcoreapp2.0\win-x64\IdentificateData.AssemblyInfo.cs
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\obj\Release\netcoreapp2.0\win-x64\IdentificateData.dll
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\obj\Release\netcoreapp2.0\win-x64\IdentificateData.pdb
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\User\source\repos\Extract-data-from-EGN\EGN\IdentificateData\bin\Release\netcoreapp2.0\win-x64\IdentificateData.exe
